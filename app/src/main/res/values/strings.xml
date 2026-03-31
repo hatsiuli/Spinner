@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="myList">
+        <item>abc</item>
+        <item>123</item>
+        <item>+-*/</item>
+        <item>ABC</item>
+        <item>abc</item>
+        <item>123</item>
+        <item>+-*/</item>
+        <item>ABC</item>
+        <item>abc</item>
+        <item>123</item>
+        <item>+-*/</item>
+        <item>ABC</item>
+        <item>abc</item>
+        <item>123</item>
+        <item>+-*/</item>
+        <item>ABC</item>
+        <item>abc</item>
+        <item>123</item>
+        <item>+-*/</item>
+        <item>ABC</item>
+        <item>abc</item>
+        <item>123</item>
+        <item>+-*/</item>
+        <item>ABC</item>
+    </string-array>
+</resources>
